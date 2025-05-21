@@ -33,10 +33,10 @@ file.
 
 When the =compleseus= layer is active, the following additional keybindings are available:
 
-| Key Binding | Description |
-|-------------+-------------|
-| ~SPC a D f~ |             |
-| ~SPC a D g~ |             |
+| Key Binding | Description         |
+|-------------+---------------------|
+| ~SPC a D f~ | consult-denote-find |
+| ~SPC a D g~ | consult-denote-grep |
 
 On =denote-menu= buffers, the following mode specific keybindings are available:
 
